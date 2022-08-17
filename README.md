@@ -21,7 +21,7 @@ Using the visualizations we created a story that show the information the we nee
     - August peak hours barchart
     - Trips by Weekday per Hour
 
-You can find all my visualizations [link to dashboard](https://public.tableau.com/views/Bikeshare_16602499826660/CitibikeChallenge?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "here.")
+You can find all my visualizations [here](https://public.tableau.com/views/Bikeshare_16602499826660/CitibikeChallenge?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "Link to Dashboard")
 
 #  Summary
 
