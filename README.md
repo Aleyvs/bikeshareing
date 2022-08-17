@@ -12,13 +12,13 @@ Using the visualizations we created a story that show the information the we nee
 
 - Total number of customers for the month of August 2019 were : 2.344.224
     -  Of the total customers 443,865 are temporary customers and 1,900,359 are subscribers.
-- A breakdown of trips by Gender of the Users, includes:
-    - [Gender Breakdown](https://public.tableau.com/shared/X2BCCZK7R?:display_count=n&:origin=viz_share_link "Link to Dashboard")
+- A breakdown of [trips by Gender of the Users](https://public.tableau.com/shared/X2BCCZK7R?:display_count=n&:origin=viz_share_link "Link to Dashboard"), includes:
+    - Gender Breakdown
     - Checkout times by Gender
     - Checkout times by Users
-- A heatmap of Trips by Gender by Weekday
-- Another heatmap showing the hour of the day the bikes are used by Gender depending on the day of the week
-- Peak hours the bikes are used with a weekday heatmap
+- A heatmap of [Trips by Gender by Weekday](https://public.tableau.com/shared/F83QSTZF2?:display_count=n&:origin=viz_share_link "Link to Dashboard")
+- Another heatmap showing the [Hour of the day the bikes are used by Gender](https://public.tableau.com/shared/HJNDGNB27?:display_count=n&:origin=viz_share_link "Link to Dashboard") depending on the day of the week
+- [Peak hours the bikes are used with a weekday](https://public.tableau.com/shared/7X2N6D8J5?:display_count=n&:origin=viz_share_link "Link to Dashboard") heatmap
     - August peak hours barchart
     - Trips by Weekday per Hour
 
